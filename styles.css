@@ -1,0 +1,209 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.container{
+  width:1020px;
+  height:50px;
+  padding:10px;
+  display:inline-block;
+  background-color: #808080;
+}
+#about{
+color:white;
+font-size: 30px;
+padding-right:
+}
+#header{
+  font-weight: 700;
+  font-size: 32px;
+  display:inline-block;
+  background-color: #808080;/*#FAFAFA*/
+}
+#new{
+  color: black;
+  font-size: 28px;
+  text-indent: 443px;
+  display:inline-block;
+  background-color: #808080;/*header2*/
+  }
+#body1{
+  margin:0px;
+  padding: px;
+  width: 1040px;
+  height:970px;
+  display:inline-block;
+  background: radial-gradient(#FAFAFA, #201014, #45323A);
+}
+.topboxes{
+  margin-top:20px;
+  margin-left:15px;
+  margin-right:10px;
+  vertical-align:top;
+  display:inline-block;/*photo*/
+  border:5px solid #808080;
+}
+#photo{
+  display:inline-block;
+  height:300px;/*photo*/
+}
+.boxhold{
+  margin-top: 20px;
+  width:520px;
+  height:90px;
+  padding-bottom: 50px;
+  margin-left:10px;
+  display:inline-block;
+}
+.boxhead{
+  vertical-align:top;
+  padding-top:30px;
+  padding-bottom:30px;
+  background: linear-gradient(#808080,#805080,#808080);/*left of self picture*/
+}
+.topboxes2{
+  padding-bottom: 15px;
+  vertical-align:top;
+  background-color:#808080;/*left body under about*/
+
+}
+.boxholdlittle3{
+  margin-top:15px;
+  margin-left:15px;
+  height:550px;
+  width: 324px;
+  display:inline-block;/*holder of la mode,*/
+  vertical-align: top;
+  background-color:#808080;
+}
+#lamode2{
+  color:white;
+  font-size: 30px;
+}
+#famfam{
+  color:white;
+  font-size: 30px;
+}
+#fiveel{
+  color:white;
+  font-size: 30px;
+}
+.boxholdlittle4{
+  margin-top: 15px;
+  margin-right: px;
+  margin-left: 15px;
+  height:550px;
+  width: 324px;
+  vertical-align: top;
+  display:inline-block;/*holder of family contact mode,*/
+  background-color:#808080;
+}
+.lamode{
+  height:20px;
+  width: 285px;
+  padding:20px;
+  display:inline-block;
+  background: linear-gradient(#808080,#506080,#808080);/*the header "La Mode"*/
+}
+.family{
+  height:20px;
+  width: 285px;
+  padding:20px;
+  display:inline-block;
+  background: linear-gradient(#808080,#506080,#808080);/*the header "La Mode"*/
+}
+.photo2{
+  height:200px;
+  width:323px;
+display:inline-block;/*photo of la mode*/
+}
+.tech{
+  color:white;
+  font-size: 30px;
+  height:20px;
+  width: 283px;
+  padding:20px;
+  display:inline-block;
+  background: linear-gradient(#808080,#506080,#808080);/*the header technologies*/
+}
+.smallphotos{
+  height:20px;
+  width: 280px;
+  padding-left:10px;/*container for smaall cicle photots photos*/
+    display:inline-block;
+}
+.photo3{
+  display:inline-block;
+  width: 15%;
+  padding-left:10px;/*container for little circle photos about code*/
+  padding-top:5px;
+  margin-bottom:10px;
+
+}
+.photo4{
+  width: 15%;
+  padding-left:10px;/*container for photos bootstrap box1 last small circle*/
+  padding-top:5px;
+  margin-bottom:10px;
+}
+.container2{
+  margin-top: 30px;
+  height:75px;
+  width:920px;
+  background-color:white;
+  padding-left: 60px;
+  padding-right:60px;
+  display:inline-block; /*holder bottom of page*/
+}
+.header2{
+  margin-left: px;
+  width:px;
+  padding-left:350px;
+  padding-right: x;
+  padding-top: 30px;
+  display: inline-block;/*jdoe@gmails.com section*/
+}
+.header3{
+  padding-left:305px;
+
+  display: inline-block;
+  width:350px;
+   /*bottom pictures + words*/
+}
+.header4{
+  padding-right:px;
+  display: inline-block;
+  width:15px;
+  display: inline-block
+}
+#new3{
+  color:white;
+  padding:5px;
+  background-color:#407D61;
+  text-decoration: none; /*anchor tages at bottom of boxes x3*/
+
+}
+
+.button{
+margin-top:5px;
+margin-left: 125px;
+border: 1px solid black;
+border-radius: 5px;
+background-color: #407D61; /*buttons within anchor tags*/
+
+}
+/*.boxholdlittle4{
+  margin-top:10px;
+  height:500px;
+  width: 300px;
+  display:inline-block;/*holder of la mode,
+  vertical-align:top;
+  background-color:white;*/
+
+
+/*#familycontacts{
+  padding:30px;
+  display:inline-block;
+  vertical-align: top;
+  background: linear-gradient(grey,white,grey)
+}*/
